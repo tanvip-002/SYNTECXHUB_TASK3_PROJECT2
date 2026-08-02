@@ -1,0 +1,37 @@
+
+===============================
+NETFLIX DATASET EDA SUMMARY
+===============================
+
+Total Titles: 8807
+
+Movies: 6131
+TV Shows: 2676
+
+Most Common Genre:
+International Movies (2752 titles)
+
+Release Year with Most Titles:
+2018 (1147 titles)
+
+Dataset Columns:
+show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
+
+Missing Values:
+show_id            0
+type               0
+title              0
+director        2634
+cast             825
+country          831
+date_added        10
+release_year       0
+rating             4
+duration           3
+listed_in          0
+description        0
+dtype: int64
+
+===============================
+End of Report
+===============================
